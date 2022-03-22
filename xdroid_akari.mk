@@ -9,6 +9,7 @@ $(call inherit-product, device/sony/akari/device.mk)
 
 # Inherit some common xdroidsp stuff.
 $(call inherit-product, vendor/xdroid/config/common.mk)
+XDROID_BOOT := 1080
 
 PRODUCT_NAME := xdroid_akari
 PRODUCT_DEVICE := akari
