@@ -14,11 +14,11 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- xd. About Phone -->
-    <string name="xd_device_name_summary">MI 8</string>
+    <string name="xd_device_name_summary">XZ2</string>
     <string name="xd_chipset_type_summary">Qualcomm Snapdragon™ 845</string>
     <string name="xd_gpu_summary">Adreno 630</string>
-    <string name="xd_camera_mp_summary">12MP+12MP Dual Camera</string>
-    <string name="xd_screen_type_summary">AMOLED FHD+ 6.21 Screen</string>
+    <string name="xd_camera_mp_summary">19MP Single Camera</string>
+    <string name="xd_screen_type_summary">IPS LCD 5.7 Screen</string>
 
 </resources>
 
